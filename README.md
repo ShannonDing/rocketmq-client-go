@@ -1,5 +1,4 @@
-## RocketMQ Client Go 
-[![Build Status](https://travis-ci.org/apache/rocketmq-client-go.svg?branch=native)](https://travis-ci.org/apache/rocketmq-client-go) 
+## RocketMQ Client Go
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![TravisCI](https://travis-ci.org/apache/rocketmq-client-go.svg)](https://travis-ci.org/apache/rocketmq-client-go)
 [![Coverage](https://codecov.io/gh/apache/rocketmq-client-go/branch/native/graph/badge.svg)](https://codecov.io/gh/apache/rocketmq-client-go/branch/native)
